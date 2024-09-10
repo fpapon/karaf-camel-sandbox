@@ -6,7 +6,7 @@
     <groupId>fr.openobject.labs.karaf</groupId>
     <artifactId>karaf-distribution</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>PoC :: SNCF :: ESB :: Distribution</name>
+    <name>Labs :: Karaf :: Distribution</name>
     <packaging>jar</packaging>
 
     <properties>
