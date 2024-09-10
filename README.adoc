@@ -1,0 +1,17 @@
+= Karaf Camel distribution
+
+[source, bash]
+----
+mvn clean install
+----
+
+[source, bash]
+----
+./target/assembly/karaf/bin/karaf
+----
+
+[source, bash]
+----
+karaf@root()> feature:install camel
+karaf@root()> feature:install camel-activemq
+----
